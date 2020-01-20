@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19953" started-at="2020-01-17T16:06:16 CST" finished-at="2020-01-17T16:06:36 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19953" started-at="2020-01-17T16:06:16 CST" finished-at="2020-01-17T16:06:36 CST">
+      <class name="com.gascalculator.testcases.DDFTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.gascalculator.testcases.DDFTest@15ca7889]" name="setup" is-config="true" duration-ms="4489" started-at="2020-01-17T16:06:16 CST" finished-at="2020-01-17T16:06:21 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="calculateTest()[pri:0, instance:com.gascalculator.testcases.DDFTest@15ca7889]" name="calculateTest" duration-ms="15242" started-at="2020-01-17T16:06:21 CST" finished-at="2020-01-17T16:06:36 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateTest -->
+        <test-method status="PASS" signature="closeup()[pri:0, instance:com.gascalculator.testcases.DDFTest@15ca7889]" name="closeup" is-config="true" duration-ms="158" started-at="2020-01-17T16:06:36 CST" finished-at="2020-01-17T16:06:36 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeup -->
+      </class> <!-- com.gascalculator.testcases.DDFTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
